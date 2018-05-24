@@ -1,6 +1,5 @@
 package dao;
 
-import app.DBUtil;
 import model.Order;
 
 import java.math.BigDecimal;

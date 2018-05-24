@@ -1,6 +1,5 @@
 package dao;
 
-import app.DBUtil;
 import model.Customer;
 
 import java.sql.*;
@@ -28,7 +27,7 @@ public class CustomerDAO {
 
     public boolean save(Customer customer){
         try (Connection conn = DBUtil.getConn();
-            PreparedStatement statement = conn.prepareStatement
+             PreparedStatement statement = conn.prepareStatement
                     ("INSERT INTO Customers (name, surname, birth_date) VALUES (?,?,?) ")){
 
             statement.setString(1, customer.getName());

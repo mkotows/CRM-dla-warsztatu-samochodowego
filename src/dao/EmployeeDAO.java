@@ -1,6 +1,5 @@
 package dao;
 
-import app.DBUtil;
 import model.Employee;
 
 import java.math.BigDecimal;
