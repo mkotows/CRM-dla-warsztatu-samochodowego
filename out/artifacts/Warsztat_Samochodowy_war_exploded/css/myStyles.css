@@ -5,5 +5,9 @@ table, td, th, tr {
     text-align: center;
 }
 th {
-    background-color: #ccc;
+    background-color: lightgray;
+}
+
+body{
+    background-color: lightcyan;
 }

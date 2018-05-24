@@ -7,25 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e500029-5059-4db3-91b2-003593055ec7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Warsztat_Samochodowy_war_exploded/WEB-INF/classes/app/Application1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Warsztat_Samochodowy_war_exploded/WEB-INF/classes/app/DBUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Warsztat_Samochodowy_war_exploded/WEB-INF/classes/dao/CustomerDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Warsztat_Samochodowy_war_exploded/WEB-INF/classes/dao/CustomerDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Warsztat_Samochodowy_war_exploded/WEB-INF/classes/dao/EmployeeDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Warsztat_Samochodowy_war_exploded/WEB-INF/classes/dao/EmployeeDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Warsztat_Samochodowy_war_exploded/WEB-INF/classes/dao/OrderDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Warsztat_Samochodowy_war_exploded/WEB-INF/classes/dao/OrderDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Warsztat_Samochodowy_war_exploded/WEB-INF/classes/dao/VehicleDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Warsztat_Samochodowy_war_exploded/WEB-INF/classes/dao/VehicleDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Warsztat_Samochodowy/app/Application1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Warsztat_Samochodowy/app/DBUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Warsztat_Samochodowy/dao/CustomerDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Warsztat_Samochodowy/dao/CustomerDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Warsztat_Samochodowy/dao/EmployeeDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Warsztat_Samochodowy/dao/EmployeeDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Warsztat_Samochodowy/dao/OrderDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Warsztat_Samochodowy/dao/OrderDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Warsztat_Samochodowy/dao/VehicleDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Warsztat_Samochodowy/dao/VehicleDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/Application1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/DBUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/DBUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dao/CustomerDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/CustomerDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dao/EmployeeDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/EmployeeDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dao/OrderDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/OrderDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dao/VehicleDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/VehicleDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/myStyles.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/myStyles.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -85,11 +67,56 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+            <state relative-caret-position="735">
+              <caret line="49" column="25" lean-forward="true" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShowCustomerOrders.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/ShowCustomerOrders.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="18" column="32" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrderDetails.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/OrderDetails.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddCustomer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/AddCustomer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="14" column="25" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/MainPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="22" column="57" lean-forward="true" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myStyles.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/css/myStyles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -162,7 +189,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/app/DeleteEmployee.java" />
         <option value="$PROJECT_DIR$/src/app/AddVehicle.java" />
         <option value="$PROJECT_DIR$/src/app/AddEmployee.java" />
         <option value="$PROJECT_DIR$/web/Employees/updateEmployee.jsp" />
@@ -213,6 +239,7 @@
         <option value="$PROJECT_DIR$/src/dao/EmployeeDAO.java" />
         <option value="$PROJECT_DIR$/src/app/MainPage.java" />
         <option value="$PROJECT_DIR$/src/dao/DBUtil.java" />
+        <option value="$PROJECT_DIR$/web/css/myStyles.css" />
       </list>
     </option>
   </component>
@@ -275,6 +302,12 @@
               <item name="Warsztat_Samochodowy" type="b2602c69:ProjectViewProjectNode" />
               <item name="Warsztat_Samochodowy" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Warsztat_Samochodowy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Warsztat_Samochodowy" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -441,16 +474,15 @@
       <workItem from="1524434093379" duration="1000" />
       <workItem from="1526402824904" duration="1318000" />
       <workItem from="1526455747759" duration="529000" />
-      <workItem from="1527159901140" duration="750000" />
+      <workItem from="1527159901140" duration="1611000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="143475000" />
+    <option name="totallyTimeSpent" value="144336000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="165" width="1309" height="772" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="3" />
       <window_info anchor="right" id="Palette" order="3" />
@@ -474,7 +506,7 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.21428572" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4942748" visible="true" weight="0.18289787" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4942748" visible="true" weight="0.18289787" />
       <window_info id="Web" order="2" sideWeight="0.5057252" side_tool="true" weight="0.16119175" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -699,10 +731,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/ShowCustomerOrders.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/OrderDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/AddCustomer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+        <state relative-caret-position="735">
+          <caret line="49" column="25" lean-forward="true" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/MainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="22" column="57" lean-forward="true" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/myStyles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
         </state>
       </provider>
     </entry>
